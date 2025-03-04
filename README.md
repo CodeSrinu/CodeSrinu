@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CodeSrinu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with AI lovers
-- 📫 How to reach me srinu18yt@gmail.com
-
-<!---
-CodeSrinu/CodeSrinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @CodeSrinu
+🚀 Building an Educational VR App & growing my Farm Service Platform startup
+💻 Passionate about AI, VR, and full-stack development
+📚 Constantly learning & working on practical projects
+🤝 Open to collaborating on VR, AI, and innovative tech solutions
+📫 Reach me at srinu18yt@gmail.com
